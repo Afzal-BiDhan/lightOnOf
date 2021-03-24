@@ -1,0 +1,21 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{ background-color: black;}
+.light{
+    text-align: center;
+}
+.light img{
+    width: 300px;
+    height: 350px;
+}
+.light h1{
+    color: white;
+    margin-top: 60px;
+    font-family: 'Caveat', cursive;
+    font-size: 54px;
+}
+.ligt_btn{
+    padding-top: 30px;
+}
+.ligt_btn button{
+    font-weight: 700;
+}
